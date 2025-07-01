@@ -1,0 +1,33 @@
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\bin\Debug\proj test2.exe.config
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\bin\Debug\proj test2.exe
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\bin\Debug\proj test2.pdb
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.csproj.AssemblyReference.cache
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.SignupForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.Manager.ManagerPromotionsForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.Manager.ManagerPendingOrdersForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.ManagerHomePage.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.Manager.ManagerFeedbacksForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.Manager.ManagerEmployeesForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.Manager.ManagerCustomerForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.CustomerPromotionsForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.CustomerOrderSummary.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.CustomerFeedbackForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.LoginForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.Employee.AccountDetailsForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.Manager.AddEditPromotionForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\proj_test2.Form23.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.EmployeesHomePage.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.EmployeePromotionsForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.Employee.EmployeeOrdersForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.Employee.EmployeeFeedbacksForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.Employee.EmployeeCustomersForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.InitialForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\proj_test2.Properties.Resources.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.csproj.GenerateResource.cache
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.csproj.CoreCompileInputs.cache
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\proj test2.exe
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\proj test2.pdb
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.CustomerHomePage.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.MainForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\proj_test2.AddProductsForm.resources
+C:\Users\Unzila Anjum\Desktop\projectCafe\proj test2\obj\Debug\CMS.UI_Forms.Manager.AddEditEmployeeForm.resources
